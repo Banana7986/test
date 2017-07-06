@@ -45,7 +45,11 @@ void Game::init() {
 		fatalError("could not initialize GLEW");
 	}
 	
+	std::printf("*** OpenGL version %s *** \n", glGetString(GL_VERSION) );
+
 	glClearColor(0.0f, 0.0f, 1.0f, 1.0f);
+
+ 	SDL_GL_SetSwapInterval(0);
 
 	initShaders();
 	}
