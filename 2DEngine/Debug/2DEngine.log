@@ -1,0 +1,24 @@
+﻿  Window.cpp
+  textureCache.cpp
+  SpriteBatch.cpp
+u:\dev\projects\test\2dengine\spritebatch.cpp(57): warning C4018: '<': signed/unsigned mismatch
+u:\dev\projects\test\2dengine\spritebatch.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+  resourceManager.cpp
+  picoPNG.cpp
+  IOmanager.cpp
+u:\dev\projects\test\2dengine\iomanager.cpp(17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+u:\dev\projects\test\2dengine\iomanager.cpp(21): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  InputManager.cpp
+  imageLoader.cpp
+  GLSLprogram.cpp
+  fatal.cpp
+  Engine.cpp
+  Camera2D.cpp
+  Generating Code...
+u:\dev\projects\test\2dengine\glslprogram.cpp(99): warning C4715: 'Engine::GLSLprogram::getUniformLocation': not all control paths return a value
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  2DEngine.vcxproj -> U:\dev\Projects\test\Debug\2DEngine.lib
