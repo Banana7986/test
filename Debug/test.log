@@ -1,9 +1,7 @@
-﻿  main.cpp
-  Game.cpp
-c:\users\serap\dev\projects\test\test\game.cpp(68): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-c:\users\serap\dev\projects\test\test\game.cpp(84): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
-c:\users\serap\dev\projects\test\test\game.cpp(132): warning C4018: '<': signed/unsigned mismatch
-c:\users\serap\dev\projects\test\test\game.cpp(151): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-c:\users\serap\dev\projects\test\test\game.cpp(153): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file '2DEngine.lib'
+﻿  Game.cpp
+c:\users\serap\dev\projects\test\test\game.cpp(64): warning C4244: 'initializing' : conversion from 'Uint32' to 'float', possible loss of data
+c:\users\serap\dev\projects\test\test\game.cpp(80): warning C4244: 'argument' : conversion from 'double' to 'Uint32', possible loss of data
+c:\users\serap\dev\projects\test\test\game.cpp(128): warning C4018: '<' : signed/unsigned mismatch
+c:\users\serap\dev\projects\test\test\game.cpp(147): warning C4244: 'initializing' : conversion from 'Uint32' to 'float', possible loss of data
+c:\users\serap\dev\projects\test\test\game.cpp(149): warning C4244: '=' : conversion from 'Uint32' to 'float', possible loss of data
+  test.vcxproj -> C:\Users\serap\dev\projects\test\Debug\test.exe
